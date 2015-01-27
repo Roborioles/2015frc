@@ -1,0 +1,19 @@
+PWM 0,1,2,3 - Drive
+4 - Lift
+5,6 - Pickup Wheels
+7 - Noddle Pickup
+Digital I/O 
+0 - Lower Limit Switch 
+1 - Upper Limit Switch
+2,3,4,5 - Claw
+6,7 - Pickup wheels
+Relay
+0 - Pickup Wheels (WM)
+1 - Shoulder (Claw)
+2 - Elbow (Claw)
+Analog
+0 - Pot - Lift
+Solenoid
+0 - Grabber
+1 - Pickup Noodle Acq
+USB - Camera
